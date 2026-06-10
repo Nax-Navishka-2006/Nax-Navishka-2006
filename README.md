@@ -83,7 +83,7 @@ Electrical & Computer Engineering Student • Embedded Systems Enthusiast • Py
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nax-Navishka-2006&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@ Electrical & Computer Engineering Student • Embedded Systems Enthusiast • Py
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nax-Navishka-2006&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Building Python and C# applications to solve real-world problems and automate wo
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nax-Navishka-2006&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
