@@ -164,11 +164,3 @@ Building Python and C# applications to solve real-world problems and automate wo
 ### Engineers are people who can figure anything out."
 
 </div>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
