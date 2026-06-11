@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Navishka%20Wickramasinghe&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-<h1 align="center">⚡ Navishka Wickramasinghe ⚡</h1>
-
 <h3 align="center">
 Electrical & Computer Engineering Student • Embedded Systems Enthusiast • Python Developer
 </h3>
