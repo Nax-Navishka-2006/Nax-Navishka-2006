@@ -35,9 +35,7 @@ Electrical & Computer Engineering Student • Embedded Systems Enthusiast • Py
 🔭 Currently Working On:
 
 - Reaction Timer Game
-- Arduino Projects
-- Engineering Design Projects
-- Python Programming
+- Front End and Back End development
 
 🌱 Currently Learning:
 
@@ -45,7 +43,9 @@ Electrical & Computer Engineering Student • Embedded Systems Enthusiast • Py
 - FPGA Design
 - PCB Design
 - Digital System Design
-- Embedded Programming
+- Intermediate python programming
+- Django Web Framework
+- Ruby
 
 🎯 Career Goal:
 
